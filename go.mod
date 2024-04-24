@@ -1,4 +1,4 @@
-module dnshub
+module github.com/uuie/dnshub
 
 go 1.21
 
